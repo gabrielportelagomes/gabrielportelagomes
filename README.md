@@ -8,10 +8,9 @@
   <a href="https://www.linkedin.com/in/gabrielportelagomes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <br/>
 
-  <div>
+  <div style="display: inline_block">
   <a href="https://github.com/gabrielportelagomes" target="_blank">
-    
-  ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielportelagomes&show_icons=true&theme=graywhite)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielportelagomes&show_icons=true&theme=graywhite&height=180em"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabrielportelagomes&layout=compact&langs_count=8&theme=graywhite"/>
 <div>
 
