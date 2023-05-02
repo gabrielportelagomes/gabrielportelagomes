@@ -41,7 +41,7 @@
   <br/>
   <br/>
 
-  <div style="display: inline_block">
+  <div style="display: inline_block" align="center">
   <a href="https://github.com/gabrielportelagomes" target="_blank">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielportelagomes&show_icons=true&theme=graywhite&height=180em"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabrielportelagomes&layout=compact&langs_count=8&theme=graywhite"/>
