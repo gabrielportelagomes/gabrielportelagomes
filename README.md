@@ -1,6 +1,13 @@
 <h1 align="center"> Olá! Me chamo Gabriel Portela 👋</h1>
 
-- Sou graduado em Engenheira Civil e estou em transição para a área de TI. Adoro tecnologia e estou sempre em busca de aprender mais e me aprimorar. Atualmente, estou fazendo um curso de Desenvolvimento Web Full Stack na Driven Education.  
+- Sou graduado em Engenheira Civil e estou em transição para a área de TI. Adoro tecnologia e estou sempre em busca de aprender mais e me aprimorar. Recentemente, finalizei o bootcamp de Desenvolvimento Web Full Stack na Driven Education.
+
+- Estudando no momento:
+  
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 - 📫 Entre em contato:  
 [![Gmail Badge](https://img.shields.io/badge/-gabrielgomesportela@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabrielgomesportela@gmail.com "Connect via Email")  
@@ -12,8 +19,7 @@
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
+  
 ### Back-end
 
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -28,8 +34,9 @@
 
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-    ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Infraestrutura e DevOps
 
